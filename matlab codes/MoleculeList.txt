@@ -1,0 +1,39 @@
+Squalane                     	0	1
+Hopane                       	0	1
+DOCHN                        	0	1
+DOCHN_oxi                    	0	1
+PHPN                         	0	1
+PHPN_oxi                     	0	1
+Quinolinohopane              	0	1
+QH_oxi                       	0	1
+Pyridinohopane               	0	1
+PH_oxi                       	0	1
+Benzobisbenzothiophene       	0	1
+BZB_oxi                      	0	1
+Trimethylbenzene-oxane       	0	1
+TBO_oxi                      	0	1
+Thio-Isorenieratane          	0	1
+TIR_oxi                      	0	1
+AP_oxi_d30                   	0	51
+APy_oxi_d30                  	50	101
+AT_oxi_d30                   	100	151
+Asphaltene Thiophene         	150	151
+Asphaltene Phenol            	150	151
+Asphaltene Pyrrole           	150	151
+Heptane                      	150	151
+PE                           	150	151
+PP                           	150	151
+PB                           	150	151
+PS                           	150	151
+SBS                          	150	151
+SBSr                         	150	151
+
+
+Saturates                    	0	1
+Aromatics                    	0	1
+Resins                       	0	1
+Asphaltenes                  	0	151
+Polymer                      	150	151
+
+
+Total Mass              	120158.65
